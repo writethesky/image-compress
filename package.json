@@ -1,8 +1,8 @@
 {
   "name": "images-compress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "js图像压缩插件",
-  "main": "dist/image-compress.min.js",
+  "main": "dist/images-compress.min.js",
   "author": "writethesky <writethesky@163.com>",
   "license": "MIT",
   "scripts": {

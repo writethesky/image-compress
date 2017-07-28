@@ -1,0 +1,24 @@
+{
+  "name": "image-compress",
+  "version": "1.0.0",
+  "description": "js图像压缩插件",
+  "main": "dist/image-compress.min.js",
+  "author": "writethesky <writethesky@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --env=dev --progress --profile --colors"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/writethesky/image-compress.git"
+  },
+  "homepage": "https://github.com/writethesky/"
+}

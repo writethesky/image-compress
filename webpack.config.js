@@ -5,7 +5,7 @@ var path = require('path');
 module.exports = {
     entry: {
         // vendor: [ 'moment' ],
-        app: './src/image-compress.js',
+        app: './src/images-compress.js',
         // eg: './example/webpack-import/eindex.js',
     },
 

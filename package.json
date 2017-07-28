@@ -1,5 +1,5 @@
 {
-  "name": "image-compress",
+  "name": "images-compress",
   "version": "1.0.0",
   "description": "js图像压缩插件",
   "main": "dist/image-compress.min.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/writethesky/image-compress.git"
+    "url": "https://github.com/writethesky/images-compress.git"
   },
   "homepage": "https://github.com/writethesky/"
 }

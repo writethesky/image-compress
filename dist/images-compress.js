@@ -1,9 +1,3 @@
-/*! image-compress 2017-07-28 
- * image-compress v1.0.0 
- * (c) 2017 writethesky（撰天）
- * Released under the MIT License. 
- * https://github.com/writethesky/ 
- * https://github.com/writethesky/image-compress.git */
 'use strict';
 
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };

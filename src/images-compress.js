@@ -1,3 +1,9 @@
+/*! images-compress 2017-07-28 
+ * images-compress v1.0.0 
+ * (c) 2017 writethesky（撰天）
+ * Released under the MIT License. 
+ * https://github.com/writethesky/ 
+ * https://github.com/writethesky/images-compress.git */
 'use strict';
 (function(w, factory){
     if ( typeof module === "object" && typeof module.exports === "object" ) {
